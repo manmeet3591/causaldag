@@ -1,3 +1,7 @@
+# Testing
+
+Docker image: https://hub.docker.com/repository/docker/manmeet3591/causaldag
+
 [![PyPI version](https://badge.fury.io/py/causaldag.svg)](https://badge.fury.io/py/causaldag)
 
 **This package is nearing a V1 release, with potential (minor) breaking changes. After the release, future breaking changes will occur less frequently and with more notice. Please raise issues as needed.**
